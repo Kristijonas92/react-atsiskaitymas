@@ -1,0 +1,21 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "email": "GOAT@GOAT.com",
+            "password": "GOAT"
+        },
+        {
+            "id": 2,
+            "email": "user@email.com",
+            "password": "securepass"
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "title": "First Post",
+            "description": "This is the description for the first post."
+        }
+    ]
+}
